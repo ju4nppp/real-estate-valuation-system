@@ -41,7 +41,7 @@ El proyecto evolucionó de un enfoque tradicional de clasificación a un sistema
 
 1.  Clonar el repositorio:
     ```bash
-    git clone [https://github.com/ju4nppp/real-estate-valuation-system.git](https://github.com/ju4nppp/real-estate-valuation-system.git)
+    git clone [https://github.com/ju4nppp/real-estate-valuation-system.git]
     ```
     
 2.  Instalar dependencias:
