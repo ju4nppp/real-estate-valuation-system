@@ -1,11 +1,11 @@
-# Neojaus AI Valuation System (Tasadur Virtual v2)
+# Neojaus AI Valuation System 
 
 Este proyecto implementa un sistema de Machine Learning para la valuación automática y clasificación de precios de propiedades inmobiliarias en México.
 
 El sistema utiliza **LightGBM** para estimar el valor comercial de una propiedad y aplica lógica de negocio estadística para detectar oportunidades de mercado (propiedades subvaluadas o sobrevaluadas).
 
 ## Demo Interactiva
-Prueba el modelo en tiempo real aquí: **[PEGA TU LINK DE HUGGING FACE AQUÍ]**
+Prueba el modelo en tiempo real aquí: https://huggingface.co/spaces/ju4nppp/Mexico_housing_price_classifier
 
 ## Enfoque del Proyecto
 
@@ -41,7 +41,7 @@ El proyecto evolucionó de un enfoque tradicional de clasificación a un sistema
 
 1.  Clonar el repositorio:
     ```bash
-    git clone [https://github.com/TU_USUARIO/neojaus-valuation-model.git](https://github.com/TU_USUARIO/neojaus-valuation-model.git)
+git clone [https://github.com/ju4nppp/real-estate-valuation-system.git](https://github.com/ju4nppp/real-estate-valuation-system.git)
     ```
 2.  Instalar dependencias:
     ```bash
