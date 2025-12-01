@@ -41,12 +41,14 @@ El proyecto evolucionó de un enfoque tradicional de clasificación a un sistema
 
 1.  Clonar el repositorio:
     ```bash
-git clone [https://github.com/ju4nppp/real-estate-valuation-system.git](https://github.com/ju4nppp/real-estate-valuation-system.git)
+    git clone [https://github.com/ju4nppp/real-estate-valuation-system.git](https://github.com/ju4nppp/real-estate-valuation-system.git)
     ```
+    
 2.  Instalar dependencias:
     ```bash
     pip install -r requirements.txt
     ```
+    
 3.  Ejecutar inferencia de prueba:
     ```bash
     python inference_v2.py
